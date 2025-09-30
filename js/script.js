@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // 'images/works/delivery_spirits_top.png',    // 作品画像4
         // 'images/works/astro_shooter_top.png',       // 作品画像5
         'images/works/juwelryhunter.jpg',
+        'images/works/Battle_of_Darkness.jpg',
     ];
     // --- 設定はここまで ---
 
