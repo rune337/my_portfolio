@@ -10,11 +10,11 @@ document.addEventListener('DOMContentLoaded', () => {
         // 'images/works/the_zeroth_wonder_top.png',   // 作品画像3
         // 'images/works/delivery_spirits_top.png',    // 作品画像4
         // 'images/works/astro_shooter_top.png',       // 作品画像5
-        '../images/works/juwelryHunter.jpg',
-        '../images/works/Battle_of_Darkness.jpg',
-        '../images/works/battleCart_portfolio.jpg',
-        '../images/works/liebelog.png',
-        '../images/works/battle_to_commander.png',
+        'images/works/juwelryHunter.jpg',
+        'images/works/Battle_of_Darkness.jpg',
+        'images/works/battleCart_portfolio.jpg',
+        'images/works/liebelog.png',
+        'images/works/battle_to_commander.png',
     ];
     // --- 設定はここまで ---
 
