@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'images/works/juwelryHunter.jpg',
         'images/works/Battle_of_Darkness.jpg',
         'images/works/battleCart_portfolio.jpg',
-        'images/works/liebeLog',
-        'images/works/battle_to_commander',
+        'images/works/liebelog.png',
+        'images/works/battle_to_commander.png',
     ];
     // --- 設定はここまで ---
 
