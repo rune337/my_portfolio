@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'images/works/battleCart_portfolio.jpg',
         'images/works/liebelog.png',
         'images/works/battle_to_commander.png',
+        'images/works/Image7.png',
     ];
     // --- 設定はここまで ---
 
