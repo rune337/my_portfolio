@@ -33,7 +33,7 @@ a {
 .container {
     /* サイト全体の背景色 */
     background-color: #003e;
-    background-image: url("../images/back.png");
+    /* background-image: url("../images/back.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
