@@ -5,8 +5,8 @@ html,
 body {
     /* ブラウザ設定サイズを活かす */
     font-size: 100%;
-    /*サイト内の文字は全て基本的に白 ※a除く*/
-    color: #fff;
+    /*サイト内の文字は全て基本的に黒 ※a除く*/
+    color: #333;
 }
 
 ul,
@@ -32,7 +32,7 @@ a {
 /* 全体を囲むクラス */
 .container {
     /* サイト全体の背景色 */
-    /* background-color: #003e; */
+    background-color: #003e;
     /* background-image: url("../images/back.png"); */
     background-repeat: no-repeat;
     background-size: cover;
