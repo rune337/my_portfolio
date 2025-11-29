@@ -16,7 +16,7 @@ dl {
 }
 
 a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
 }
 
@@ -32,8 +32,8 @@ a {
 /* 全体を囲むクラス */
 .container {
     /* サイト全体の背景色 */
-    background-color: #003e;
-    background-image: url("../images/back.png");
+    /* background-color: #003e; */
+    /* background-image: url("../images/back.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
