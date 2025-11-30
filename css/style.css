@@ -188,8 +188,10 @@ a {
     padding: 12px;
     border-radius: 8px;
     /* 背景色は白だが透明度が高い */
-    background: #fff2;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    background: rgba(255, 255, 255, 0.55);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
     /* 背景をすりガラス風の加工 */
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
